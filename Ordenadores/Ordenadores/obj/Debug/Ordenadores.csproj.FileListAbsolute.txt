@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\bin\Debug\Ordenadores.exe.config
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\bin\Debug\Ordenadores.exe
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\bin\Debug\Ordenadores.pdb
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\obj\Debug\Ordenadores.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\obj\Debug\Ordenadores.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\obj\Debug\Ordenadores.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\obj\Debug\Ordenadores.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\obj\Debug\Ordenadores.exe
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\obj\Debug\Ordenadores.pdb
+C:\Users\Daniel\source\repos\Ordenadores\Ordenadores\obj\Debug\Ordenadores.Ordenadores.resources
